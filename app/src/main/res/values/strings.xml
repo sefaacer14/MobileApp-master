@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MobileExam</string>
+    <string name="to">To</string>
+    <string name="send_e_mail">Send e-Mail</string>
+    <string name="sensors">Sensors</string>
+    <string name="users">Users</string>
+    <string name="subject">Subject</string>
+    <string name="message">Message</string>
+    <string name="sende_mail">Send e-Mail</string>
+</resources>
